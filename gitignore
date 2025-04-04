@@ -1,0 +1,21 @@
+# Build results
+bin/*
+obj/*
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment settings
+.env
+
+# macOS files (in case you switch OS)
+.DS_Store
+
+packages/
