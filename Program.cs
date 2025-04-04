@@ -1,4 +1,6 @@
-﻿List<Student> students = new List<Student>();
+﻿using StudentManager.Models;
+
+List<Student> students = new List<Student>();
 bool running = true;
 while (running){
     Console.WriteLine("\n--- Student Manager ---");
